@@ -572,33 +572,8 @@ The comparison program automatically tests 1, 2, 4, and 8 threads.
 
 ---
 
-# 14. Screenshots
 
-Add screenshots of the actual program execution to document the experiment.
-
-Suggested screenshot organization:
-
-```text
-Screenshots/
-├── race_condition.png
-├── critical_section.png
-├── atomic_operation.png
-├── barrier.png
-├── semaphore.png
-└── comparison_results.png
-```
-
-The filenames above are suggestions. Use the actual filenames of the screenshots added to your repository.
-
-Example Markdown for displaying a screenshot:
-
-```markdown
-![Race Condition Output](Screenshots/race_condition.png)
-```
-
----
-
-# 15. Conclusion
+# 14. Conclusion
 
 This experiment demonstrates the importance of synchronization in parallel programming.
 
