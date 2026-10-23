@@ -397,6 +397,14 @@ The following table contains the actual recorded results from the experiment.
 | Atomic | 8 | 10,000,000 | Correct | 0.1204 |
 | Lock | 8 | 10,000,000 | Correct | 0.3552 |
 
+--------
+
+![Execution](Screenshots/syncronization1.jpeg)
+
+![Execution](Screenshots/syncronization2.jpeg)
+
+--------
+
 ## 9.4 Observations
 
 ### None - No Synchronization
